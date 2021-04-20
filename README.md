@@ -58,7 +58,7 @@ To build the application, run the following commands:
 
 
 ## Run
-1.`docker run -it --rm -p 5000:5000 nidhi2019/text-similarity'`
+1.`docker run -it --rm -p 5000:5000 nidhi2019/text-similarity`
 
 ## Test
 ### Postman:
